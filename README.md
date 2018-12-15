@@ -1,0 +1,1 @@
+# rn-animated-gradient-example
